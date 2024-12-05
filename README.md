@@ -1,7 +1,6 @@
 # 2D-Kitaev-Model (XY-model)
 
-Ways to install:
-#-----------------
+### Ways to install:
 
 1) Just run test_prepare.py inside the build directory. 
    * This will create subdirectories with each parameter values inscribed in the directory. E.g. J_H_0.0 would imply The J_H cou;ling with value 0.0.
